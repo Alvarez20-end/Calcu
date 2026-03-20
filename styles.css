@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #38b6ff, #2c2c54);
+    color: rgb(0, 0, 0);
+     font-size: 30px;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.container {
+    background: #f91e1e; 
+    padding: 90px;
+    border-radius: 28px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.6);
+    text-align: center;
+    width: 550px;
+}
+
+h2 {
+    margin-bottom: 50px;
+}
+
+input {
+    padding: 22px;
+    margin: 16px;
+    border-radius: 18px;
+    border: none;
+    text-align: center;
+    font-size: 30px;
+    width: 510px;
+}
+
+#permiso {
+    background: #feffff;
+    color: black;
+    font-weight: bold;
+}
+
+.inputs {
+    margin-top: 30px;
+}
+
+select {
+    padding: 22px;
+    margin: 16px;
+    border-radius: 18px;
+    border: none;
+    text-align: center;
+    font-size: 20px;
+    width: 560px;
+    background: #feffff;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
